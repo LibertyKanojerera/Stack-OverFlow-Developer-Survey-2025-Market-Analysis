@@ -1,6 +1,5 @@
 # 📊 Stack Overflow Developer Survey 2025 — US Market Analysis
 
-> **Course:** MS Business Analytics & AI — Python for Data Science  
 > **Author:** Kanojerera  
 > **Dataset:** Stack Overflow Annual Developer Survey 2025  
 > **Environment:** [Deepnote](https://deepnote.com)
@@ -9,7 +8,7 @@
 
 ## 🗂️ Project Overview
 
-This project walks the full data science pipeline — from raw, messy survey data to polished, actionable insights — using the **2025 Stack Overflow Developer Survey**, one of the most comprehensive annual censuses of software professionals worldwide.
+This project walks the full data science pipeline, from raw, messy survey data to polished, actionable insights, using the **2025 Stack Overflow Developer Survey**, one of the most comprehensive annual censuses of software professionals worldwide.
 
 The analysis focuses specifically on the **United States employed developer market**, probing the relationships between education, experience, language choice, industry, and compensation.
 
@@ -163,7 +162,7 @@ Only **0.82%** of respondents earn more than 3 standard deviations above the mea
 
 ```
 ├── README.md                          ← This file
-├── Problem_Set2_Kanojerera.ipynb      ← Full analysis notebook
+├── SO_data_analysis.ipynb      ← Full analysis notebook
 └── outputs/
     ├── remote_work_salary.png
     ├── jobsat_salary.png
