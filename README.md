@@ -1,6 +1,5 @@
 # 📊 Stack Overflow Developer Survey 2025 — US Market Analysis
 
-> **Course:** MS Business Analytics & AI — Python for Data Science  
 > **Author:** Kanojerera  
 > **Dataset:** Stack Overflow Annual Developer Survey 2025  
 > **Environment:** [Deepnote](https://deepnote.com)
@@ -19,8 +18,7 @@ The analysis focuses on the **United States employed developer market**, investi
 
 ```
 ├── README.md          ← This file
-├── analysis.py        ← All 20 tasks as clean, documented Python
-├── Problem_Set2_Kanojerera.ipynb   ← Original Deepnote notebook
+├── analysis.py        ← All 20 tasks in Python code
 └── outputs/
     ├── remote_work_salary.png
     ├── jobsat_salary.png
