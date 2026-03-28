@@ -120,6 +120,7 @@ No strong linear relationship between salary and job satisfaction score (0–10)
 | 1 | *([see chart](outputs/top10_industries_salary.png))* | highest |
 | … | … | … |
 | 10 | *([see chart](outputs/top10_industries_salary.png))*| … |
+<img width="996" height="790" alt="top10_industries_salary" src="https://github.com/user-attachments/assets/ebdb216c-77fa-483b-829a-ea9097d3bfe8" />
 
 > Finance, cloud/SaaS, and software development sectors consistently top the list.
 
