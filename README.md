@@ -103,13 +103,13 @@ Filtered to ≤ $500k to avoid visual distortion from extreme outliers.
 
 ### 5. Remote Work & Pay
 
-Salary distributions vary across remote work models. Remote-heavy arrangements tend toward higher medians, though hybrid modes cluster similarly. The data ([See chart](outputs/jobsat_salary.png)) suggests location flexibility correlates with (but does not solely drive) higher pay. 
+Salary distributions vary across remote work models. Remote-heavy arrangements tend toward higher medians, though hybrid modes cluster similarly. The data  suggests location flexibility correlates with (but does not solely drive) higher pay ([See Chart](outputs/remote_work_salary.png)). 
 
 ---
 
 ### 6. Job Satisfaction vs. Pay
 
-No strong linear relationship between salary and job satisfaction score (0–10). Developers at the extremes of satisfaction (very low or very high) show wide salary variance, suggesting satisfaction is driven by factors beyond compensation alone.
+No strong linear relationship between salary and job satisfaction score (0–10) ([See chart](outputs/jobsat_salary.png)). Developers at the extremes of satisfaction (very low or very high) show wide salary variance, suggesting satisfaction is driven by factors beyond compensation alone.
 
 ---
 
@@ -117,9 +117,9 @@ No strong linear relationship between salary and job satisfaction score (0–10)
 
 | Rank | Industry | Median Salary |
 |------|----------|--------------|
-| 1 | *([see chart](outputs/remote_work_salary.png))* | highest |
+| 1 | *([see chart](outputs/top10_industries_salary.png))* | highest |
 | … | … | … |
-| 10 | *(see chart)* | … |
+| 10 | *([see chart](outputs/top10_industries_salary.png))*| … |
 
 > Finance, cloud/SaaS, and software development sectors consistently top the list.
 
