@@ -103,7 +103,7 @@ Filtered to ≤ $500k to avoid visual distortion from extreme outliers.
 
 ### 5. Remote Work & Pay
 
-Salary distributions vary across remote work models. Remote-heavy arrangements tend toward higher medians, though hybrid modes cluster similarly. The data suggests location flexibility correlates with (but does not solely drive) higher pay.
+Salary distributions vary across remote work models. Remote-heavy arrangements tend toward higher medians, though hybrid modes cluster similarly. The data ([See chart](outputs/jobsat_salary.png)) suggests location flexibility correlates with (but does not solely drive) higher pay. 
 
 ---
 
@@ -117,7 +117,7 @@ No strong linear relationship between salary and job satisfaction score (0–10)
 
 | Rank | Industry | Median Salary |
 |------|----------|--------------|
-| 1 | *(see chart)* | highest |
+| 1 | *([see chart](outputs/remote_work_salary.png))* | highest |
 | … | … | … |
 | 10 | *(see chart)* | … |
 
