@@ -47,7 +47,7 @@ pip install pandas matplotlib seaborn
 
 ## 🔄 The Pipeline at a Glance
 
-The full code lives in [`analysis.py`](./analysis.py), organised into three parts that mirror the assignment structure.
+The full code lives in [`analysis.py`](./analysis.py), organised into three parts that mirror the project structure.
 
 ### Part 1 — Data Cleaning & Wrangling (Tasks 1–8)
 
