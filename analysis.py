@@ -1,8 +1,7 @@
 """
 Stack Overflow Developer Survey 2025 — US Market Analysis
 ==========================================================
-Author : Kanojerera
-Course : MS Business Analytics & AI — Python for Data Science
+Author : Libert Kanojerera
 Dataset: survey_results_public_2025_v1.csv
 """
 
